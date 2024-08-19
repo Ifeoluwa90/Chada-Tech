@@ -77,7 +77,7 @@ The main artifact for this project is the Sprint Review and Retrospective docume
 - The team's ability to handle project changes
 - The impact of Agile tools and principles on project success
 
-[Link to Sprint Review and Retrospective Document]([./SprintReviewAndRetrospective.pdf](https://github.com/Ifeoluwa90/Chada-Tech/blob/main/CS250%20Sprint%20Review%20and%20Retrospective%20Final.pdf))
+[Link to Sprint Review and Retrospective Document](CS250 Sprint Review and Retrospective Final.pdf)
 
 ## Looking Forward
 
